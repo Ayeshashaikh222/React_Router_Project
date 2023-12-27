@@ -10,6 +10,7 @@ import Contact from './components/Contact/Contact.jsx'
 import {Route} from 'react-router-dom';
 import User from './components/User/User.jsx'
 import Github from './components/GitHub/Github.jsx'
+import { githubInfoLoader } from './components/GitHub/Github.jsx'
 
 // const router = createBrowserRouter([
 //   {
